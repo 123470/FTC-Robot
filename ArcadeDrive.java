@@ -12,7 +12,7 @@ public class ArcadeDrive extends Superclass {
 
     DcMotor leftMotor;
     DcMotor rightMotor;
-    DcMotor armMotor;
+
 
     public task main() {
         while (true) { // infinitely loop
